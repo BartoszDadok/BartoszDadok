@@ -4,6 +4,7 @@
 # Bartosz Dadok
 I'm Bartosz. I really enjoy learning languages and frameworks like React, React Native and Next.js, as well as work in Node.js and Express. I also deeply interested in markteing and bussiness side of the development.
 
+## My main project and example of work:
 My main project is mobile app called **Wannabe**, I have been created it in order to help people prepare for their interview and better understand programming languages. There are hundreads of real interview questions with answers and detailed explanations for frontend technologies.
 
 **Wannabe App is available in Apple and Play stores:**
@@ -14,10 +15,10 @@ My main project is mobile app called **Wannabe**, I have been created it in orde
 
 ![appromoGIF](https://github.com/BartoszDadok/WannabeFrontendApp/assets/101389945/4ad6041d-786f-428c-883e-a9c32df7175a)
 
-## My YouTube channel
+## My YouTube channel:
 You are welcome to see my youtube channel where I teach about JavaScript: https://www.youtube.com/@wannabeIT
 
-## Skills and Experience
+## Skills and Experience:
 * JavaScript, TypeScript, HTML, CSS,
 * React
 * React Native
