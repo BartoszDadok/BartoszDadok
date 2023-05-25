@@ -1,16 +1,17 @@
-### Hi there 👋
+<!-- ![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg) -->
 
-<!--
-**BartoszDadok/BartoszDadok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- # Bartosz Dadok
+I'm Bartosz. 
 
-Here are some ideas to get you started:
+## Skills and Experience
+* 💻 JavaScript, TypeScript, HTML, CSS,
+* ⚛ React
+* 📱 React Native
+* Next.js
+* Node.js
+* Express.js
+* MongoDB -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Examples of Work
+<!-- <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" > -->
