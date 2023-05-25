@@ -1,4 +1,5 @@
-![Coding & Marketing](https://github.com/BartoszDadok/BartoszDadok/assets/101389945/5f05e9ab-b74d-42c8-b61a-7dc5a43f689e)
+
+![Coding & Marketing](https://github.com/BartoszDadok/BartoszDadok/assets/101389945/14621f06-1677-455c-ba5e-a9c6923844f1)
 
 # Bartosz Dadok
 I'm Bartosz. I really enjoy learning languages and frameworks like React, React Native and Next.js, as well as work in Node.js and Express. I also deeply interested in markteing and bussiness side of the development.
