@@ -14,7 +14,7 @@ My main project is mobile app called **Wannabe**, I have been created it in orde
 
 ![appromoGIF](https://github.com/BartoszDadok/WannabeFrontendApp/assets/101389945/4ad6041d-786f-428c-883e-a9c32df7175a)
 
-## Youtube channel
+## My YouTube channel
 You are welcome to see my youtube channel where I teach about JavaScript: https://www.youtube.com/@wannabeIT
 
 ## Skills and Experience
