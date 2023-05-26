@@ -26,3 +26,5 @@ You are welcome to see my youtube channel where I teach about JavaScript: https:
 * Node.js
 * Express.js
 * MongoDB
+* GraphQL
+
