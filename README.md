@@ -16,8 +16,8 @@ My main project is mobile app called **Wannabe**, I have been created it in orde
 ![appromoGIF](https://github.com/BartoszDadok/WannabeFrontendApp/assets/101389945/4ad6041d-786f-428c-883e-a9c32df7175a)
 
 **All code of Wannabe App is available on my Github Account:**
-- Repository Frontend Wannabe App: https://github.com/BartoszDadok/WannabeFrontendApp
-- Repository Backend Wannabe App: https://github.com/BartoszDadok/WannabeBackendApp
+- Repository Wannabe App Frontend : https://github.com/BartoszDadok/WannabeFrontendApp
+- Repository Wannabe App Backend: https://github.com/BartoszDadok/WannabeBackendApp
 
 ## My YouTube channel:
 You are welcome to see my youtube channel where I teach about JavaScript: https://www.youtube.com/@wannabeIT
