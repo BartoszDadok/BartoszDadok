@@ -32,3 +32,8 @@ You are welcome to see my youtube channel where I teach about JavaScript: https:
 * MongoDB
 * GraphQL
 
+## Other Projects:
+- Repository Trail Landing Page- https://github.com/BartoszDadok/TrailLandingPageFrontend.git
+- Repository Trail Dashboard- https://github.com/BartoszDadok/TrailDashboardFrontend.git
+- Repository Trail Backend- https://github.com/BartoszDadok/TrailBackend.git
+
