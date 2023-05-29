@@ -5,7 +5,7 @@
 I'm Bartosz. I enjoy learning programming languages and frameworks.
 I am proficient in JavaScript, TypeScript, React, React Native and Next.js. I also have experience backend technologies like Node.js and Express.
 
-I am also deeply interested in markteing and the bussiness side of product development.
+I am also deeply interested in markting and the bussiness side of product development.
 
 ## My main project and example of work:
 My main project is mobile app called **Wannabe**, I have been creating it in order to help people prepare for their interview and better understand programming languages. There are hundreads of sample interview questions with answers and detailed explanations of frontend technologies.
