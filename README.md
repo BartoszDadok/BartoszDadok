@@ -8,9 +8,9 @@ I am proficient in JavaScript, TypeScript, React, React Native and Next.js. I al
 I am also deeply interested in markteing and the bussiness side of product development.
 
 ## My main project and example of work:
-My main project is mobile app called **Wannabe**, I have been creating it in order to help people prepare for their interview and better understand programming languages. There are hundreads of sample interview questions with answers and detailed explanations for frontend technologies.
+My main project is mobile app called **Wannabe**, I have been creating it in order to help people prepare for their interview and better understand programming languages. There are hundreads of sample interview questions with answers and detailed explanations of frontend technologies.
 
-**Wannabe App is available in Apple and Play stores:**
+**Wannabe App is available in the Apple and Play stores:**
 - Apple Store - https://apps.apple.com/us/app/wannabe/id6446692315
 - Play Store - https://play.google.com/store/apps/details?id=com.bartoszdadok.Wannabe
 
