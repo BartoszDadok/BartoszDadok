@@ -1,5 +1,4 @@
-
-![Coding & Marketing](https://github.com/BartoszDadok/BartoszDadok/assets/101389945/14621f06-1677-455c-ba5e-a9c6923844f1)
+![Coding & Marketing](https://github.com/BartoszDadok/BartoszDadok/assets/101389945/83a256fb-fc3f-4ce7-b0e9-aa2a9d61cb85)
 
 # Bartosz Dadok
 I'm Bartosz. I enjoy learning programming languages and frameworks.
