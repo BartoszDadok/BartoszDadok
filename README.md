@@ -44,10 +44,10 @@ You are welcome to visit my youtube channel where I present tutorials about Java
  ### Marketing:
   - User Interface
   - Google Analytics
+  - SEO
   - Facebook Ads
   - Google Ads
-  - SEO
-
+ 
 ### Languages:
  - Fluent English
  - Communicative German
