@@ -26,7 +26,7 @@ You are welcome to visit my youtube channel where I present tutorials about Java
 
 ## Skills and Experience:
 ### Programming technologies:
- - JavaScript, TypeScript, HTML, CSS,
+ - JavaScript, TypeScript, HTML, CSS
  - React
  - React Native
  - Next.js
