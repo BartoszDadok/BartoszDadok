@@ -35,18 +35,18 @@ You are welcome to visit my youtube channel where I present tutorials about Java
  - MongoDB
  - GraphQL
  
- ### Video & Graphics:
- - Adobe After Effects
- - Adobe Premiere Pro
- - Adobe Photoshop
- - Adobe Illustrator
-
  ### Marketing:
   - User Interface
   - Google Analytics
   - SEO
   - Facebook Ads
   - Google Ads
+
+ ### Video & Graphics:
+ - Adobe After Effects
+ - Adobe Premiere Pro
+ - Adobe Photoshop
+ - Adobe Illustrator
  
 ### Languages:
  - Fluent English
