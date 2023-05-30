@@ -47,8 +47,8 @@ You are welcome to visit my youtube channel where I present tutorials about Java
   - SEO
 
 ### Languages:
- - fluent English
- - communicative German
+ - Fluent English
+ - Communicative German
  
 ## Other Projects:
 - Repository Trail Landing Page- https://github.com/BartoszDadok/TrailLandingPageFrontend.git
