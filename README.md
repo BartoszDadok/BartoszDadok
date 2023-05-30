@@ -25,7 +25,7 @@ My main project is a mobile app called **Wannabe**, I have been creating it in o
 You are welcome to visit my youtube channel where I present tutorials about JavaScript: https://www.youtube.com/@wannabeIT
 
 ## Skills and Experience:
-### Programming:
+### Programming technologies:
  - JavaScript, TypeScript, HTML, CSS,
  - React
  - React Native
