@@ -54,7 +54,7 @@ You are welcome to visit my youtube channel where I present tutorials about Java
  
 ### Languages:
  - Proficient in English
- - Competent in German language
+ - Competent in German
  
 ## Other Projects:
 - Repository Trail Landing Page- https://github.com/BartoszDadok/TrailLandingPageFrontend.git
