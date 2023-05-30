@@ -41,7 +41,15 @@ You are welcome to visit my youtube channel where I present tutorials about Java
  - Adobe Photoshop
  - Adobe Illustrator
 
+ ### Marketing:
+  - Facebook Ads
+  - Google Ads
+  - SEO
 
+### Languages:
+ - fluent English
+ - communicative German
+ 
 ## Other Projects:
 - Repository Trail Landing Page- https://github.com/BartoszDadok/TrailLandingPageFrontend.git
 - Repository Trail Dashboard- https://github.com/BartoszDadok/TrailDashboardFrontend.git
