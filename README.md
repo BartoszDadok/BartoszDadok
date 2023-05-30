@@ -42,6 +42,8 @@ You are welcome to visit my youtube channel where I present tutorials about Java
  - Adobe Illustrator
 
  ### Marketing:
+  - User Interface
+  - Google Analytics
   - Facebook Ads
   - Google Ads
   - SEO
