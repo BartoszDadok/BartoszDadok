@@ -42,6 +42,10 @@ You are welcome to visit my youtube channel where I present tutorials about Java
   - Facebook Ads
   - Google Ads
 
+ ### Website Optimization:
+  - Webpagetest.com
+  - Google PageSpeed Test
+
  ### Video & Graphics:
  - Adobe After Effects
  - Adobe Premiere Pro
