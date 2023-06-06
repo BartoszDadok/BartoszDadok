@@ -2,7 +2,7 @@
 
 # Bartosz Dadok
 I'm Bartosz. I enjoy learning programming languages and frameworks.
-I am proficient in JavaScript, TypeScript, React, React Native, and Next.js. I also have experience with backend technologies like Node.js and Express.
+I am proficient in JavaScript, TypeScript, React, React Native, and Next.js. I have an experience with backend technologies like Node.js and Express.
 
 I am also deeply interested in marketing, the business side of product development, and UI. 
 
@@ -26,14 +26,16 @@ You are welcome to visit my youtube channel where I present tutorials about Java
 
 ## Skills and Experience:
 ### Programming technologies:
- - JavaScript, TypeScript, HTML, CSS
- - React
- - React Native
- - Next.js
- - Node.js
- - Express.js
- - MongoDB
- - GraphQL
+- Frontend:
+  - JavaScript, TypeScript, HTML, CSS
+  - React
+  - React Native
+  - Next.js
+- Backend:
+  - Node.js
+  - Express.js
+  - MongoDB
+  - GraphQL
  
  ### Marketing:
   - User Interface
