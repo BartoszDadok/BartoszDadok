@@ -63,3 +63,10 @@ You are welcome to visit my youtube channel where I present tutorials about Java
 - Repository Trail Dashboard- https://github.com/BartoszDadok/TrailDashboardFrontend.git
 - Repository Trail Backend- https://github.com/BartoszDadok/TrailBackend.git
 
+
+## Contact
+
+- Email - bartoszdadok@gmail.com
+- My Youtube Channel - [Youtube](https://www.youtube.com/@wannabeIT)
+- LinkedIn - [LinkedIn](https://www.linkedin.com/in/bartoszdadok/)
+
