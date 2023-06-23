@@ -31,6 +31,7 @@ You are welcome to visit my youtube channel where I present tutorials about Java
   - React
   - React Native
   - Next.js
+  - Testing (JEST)
 - Backend:
   - Node.js
   - Express.js
