@@ -40,6 +40,8 @@ You are welcome to visit my youtube channel where I present tutorials about Java
   - Express.js
   - MongoDB
   - GraphQL
+  - JWT
+  - Stripe
  
  ### Marketing:
   - User Interface
