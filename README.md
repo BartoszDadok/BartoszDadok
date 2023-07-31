@@ -27,11 +27,14 @@ You are welcome to visit my youtube channel where I present tutorials about Java
 ## Skills and Experience:
 ### Programming technologies:
 - Frontend:
-  - JavaScript, TypeScript, HTML, CSS
+  - JavaScript, TypeScript
+  - HTML
+  - CSS (SCSS, Styled Components, Tailwind)
   - React
   - React Native
   - Next.js
   - Testing (JEST + React Testing Library)
+  - GraphQL, Redux, Redux Toolkit
 - Backend:
   - Node.js
   - Express.js
