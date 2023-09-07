@@ -1,13 +1,13 @@
 ![Coding & Marketing](https://github.com/BartoszDadok/BartoszDadok/assets/101389945/83a256fb-fc3f-4ce7-b0e9-aa2a9d61cb85)
 
-# My resume:
-https://drive.google.com/file/d/1YkvW-hr9o2r5lsgveLll9_9JX242e25f/view?usp=sharing
-
 # Bartosz Dadok
 I'm Bartosz. I enjoy learning programming languages and frameworks.
 I am proficient in JavaScript, TypeScript, React, React Native, and Next.js. I have an experience with backend technologies like Node.js and Express.
 
 I am also deeply interested in marketing, the business side of product development, and UI. 
+
+## My resume:
+https://drive.google.com/file/d/1YkvW-hr9o2r5lsgveLll9_9JX242e25f/view?usp=sharing
 
 ## My main project and example of work:
 My main project is a mobile app called **Wannabe**, I have been creating it in order to help people prepare for their interviews and better understand programming languages. There are hundreds of sample interview questions with answers and detailed explanations of front-end technologies.
