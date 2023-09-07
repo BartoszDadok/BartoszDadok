@@ -1,4 +1,4 @@
-![Coding & Marketing](https://github.com/BartoszDadok/BartoszDadok/assets/101389945/83a256fb-fc3f-4ce7-b0e9-aa2a9d61cb85)
+![Mobile Apps & React Native](https://github.com/BartoszDadok/BartoszDadok/assets/101389945/36032e3e-dd35-4843-906e-30463d2d18e6)
 
 # Bartosz Dadok
 I'm Bartosz. I enjoy learning programming languages and frameworks.
