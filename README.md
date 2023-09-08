@@ -31,13 +31,14 @@ You are welcome to visit my youtube channel where I present tutorials about Java
 ### Programming technologies:
 - Frontend:
   - JavaScript, TypeScript
-  - HTML
-  - CSS (SCSS, Styled Components, Tailwind)
   - React
   - React Native
-  - Next.js
   - Testing (JEST + React Testing Library)
   - GraphQL, Redux, Redux Toolkit
+  - HTML
+  - CSS (SCSS, Styled Components, Tailwind)
+  - Next.js
+  
 - Backend:
   - Node.js
   - Express.js
