@@ -9,6 +9,8 @@ I am also deeply interested in marketing, the business side of product developme
 ## My main project is a mobile application "Upoluj Promke", which is used by over 400 people every day:
 With this app people can find out which grocery stores have the best deals!
 **Upoluj Promke is written in React Native with Redux Toolkit and RTK query. Backend is written in NodeJs.**. I am not going to share the code of this app now on GitHub. 
+
+**Upoluj Promke App is available in the Apple and Play stores:**
 - **Upoluj Promke** Android: https://play.google.com/store/apps/details?id=com.bartoszdadok.UpolujPromke
 - **Upoluj Promke** Iphone: https://apps.apple.com/pl/app/upoluj-promke/id6466819758?l=pl"
 
