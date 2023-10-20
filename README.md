@@ -22,7 +22,7 @@ My main project is a mobile app called **Wannabe**, I have been creating it in o
 - Repository Wannabe App Backend: https://github.com/BartoszDadok/WannabeBackendApp
 
 ## Another application is "Upoluj Promke", which is used by over 400 people every day:
-I am not going to share the code of this app now on GitHub. **Upoluj Promle is written in React Native with Redux Toolkit and RTK query. Backend is written in NodeJs.**
+I am not going to share the code of this app now on GitHub. **Upoluj Promke is written in React Native with Redux Toolkit and RTK query. Backend is written in NodeJs.**
 - **Upoluj Promke** Android: https://play.google.com/store/apps/details?id=com.bartoszdadok.UpolujPromke
 - **Upoluj Promke** Iphone: https://apps.apple.com/pl/app/upoluj-promke/id6466819758?l=pl"
 
