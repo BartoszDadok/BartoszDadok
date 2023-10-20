@@ -6,9 +6,6 @@ I am proficient in JavaScript, TypeScript, React, React Native, and Next.js. I h
 
 I am also deeply interested in marketing, the business side of product development, and UI. 
 
-## My resume:
-https://drive.google.com/file/d/1YkvW-hr9o2r5lsgveLll9_9JX242e25f/view?usp=sharing
-
 ## My main project and example of work:
 My main project is a mobile app called **Wannabe**, I have been creating it in order to help people prepare for their interviews and better understand programming languages. There are hundreds of sample interview questions with answers and detailed explanations of front-end technologies.
 
@@ -24,7 +21,7 @@ My main project is a mobile app called **Wannabe**, I have been creating it in o
 - Repository Wannabe App Frontend: https://github.com/BartoszDadok/WannabeFrontendApp
 - Repository Wannabe App Backend: https://github.com/BartoszDadok/WannabeBackendApp
 
-## Another App "Upoluj Promke" which over 400 people use every day:
+## Another application is "Upoluj Promke", which is used by over 400 people every day.:
 I am not going to share the code of this app now on GitHub. **Upoluj Promle is written in React Native with Redux Toolkit and RTK query. Backend is written in NodeJs.**
 - **Upoluj Promke** Android: https://play.google.com/store/apps/details?id=com.bartoszdadok.UpolujPromke
 - **Upoluj Promke** Iphone: https://apps.apple.com/pl/app/upoluj-promke/id6466819758?l=pl"
