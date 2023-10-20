@@ -11,8 +11,9 @@ With this app people can find out which grocery stores have the best deals!
 **Upoluj Promke is written in React Native with Redux Toolkit and RTK query. Backend is written in NodeJs.**. I am not going to share the code of this app now on GitHub. 
 
 **Upoluj Promke App is available in the Apple and Play stores:**
-- **Upoluj Promke** Android: https://play.google.com/store/apps/details?id=com.bartoszdadok.UpolujPromke
-- **Upoluj Promke** Iphone: https://apps.apple.com/pl/app/upoluj-promke/id6466819758?l=pl"
+
+- Apple Store - https://apps.apple.com/pl/app/upoluj-promke/id6466819758?l=pl"
+- Apple Store -  https://play.google.com/store/apps/details?id=com.bartoszdadok.UpolujPromke
 
 ## My second mobile app with all code on Github:
 That project is a mobile app called **Wannabe**, I have been creating it in order to help people prepare for their interviews and better understand programming languages. There are hundreds of sample interview questions with answers and detailed explanations of front-end technologies.
