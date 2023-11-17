@@ -6,7 +6,7 @@ I am proficient in JavaScript, TypeScript, React, React Native, and Next.js. I h
 
 I am also deeply interested in marketing, the business side of product development, and UI. 
 
-## My main project is a mobile application "Upoluj Promke", which is used by over 400 people every day:
+## My main project is a mobile application "Upoluj Promke", which is used by over 900 people:
 With this app people can find out which grocery stores have the best deals!
 **Upoluj Promke is written in React Native with TypeScript, Redux Toolkit and RTK query. Backend is written in NodeJs.**. I am not going to share the code of this app now on GitHub. 
 
