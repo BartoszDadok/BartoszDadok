@@ -89,6 +89,5 @@ That project is a mobile app called **Wannabe**, I have been creating it in orde
 ## Contact:
 
 - Email - bartoszdadok@gmail.com
-- My Youtube Channel - [Youtube](https://www.youtube.com/@wannabeIT)
 - LinkedIn - [LinkedIn](https://www.linkedin.com/in/bartoszdadok/)
 
