@@ -6,7 +6,15 @@ I am proficient in JavaScript, TypeScript, React, React Native, and Next.js. I h
 
 I am also deeply interested in marketing, the business side of product development, and UI. 
 
-## My main project is a mobile application "Upoluj Promke", which is used by over 1600 people:
+## Commercial project. A mobile app Włoska Robota.
+I was hired by Polish Tattoo Studio **Włoska Robota Tattoo** to create a mobile app **Włoska Robota**. The app uses NFC technology to scan gift cards.
+The app is written in React Native with TypeScript. Backend is written in NodeJs. It’s available in Play Store. 
+
+- Play Store - https://play.google.com/store/apps/details?id=com.bartoszdadok.wloskarobota
+ 
+A tattoo studio wanted to sell gift certificates in the form of printed RFID cards instead of paper gift cards. In order to do this, they needed a mobile application to handle these vouchers. The application can add, subtract funds, and can also set the expiration date. They hired me to accomplish this task.
+
+## My main hobby project is a mobile application "Upoluj Promke", which is used by over 1600 people:
 With this app people can find out which grocery stores have the best deals!
 **Upoluj Promke is written in React Native with TypeScript, Redux Toolkit and RTK query. Backend is written in NodeJs.**.
 
