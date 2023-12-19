@@ -14,7 +14,7 @@ The app is written in React Native with TypeScript. Backend is written in NodeJs
  
 A tattoo studio wanted to sell gift certificates in the form of printed RFID cards instead of paper gift cards. In order to do this, they needed a mobile application to handle these vouchers. The application can add, subtract funds, and can also set the expiration date. They hired me to accomplish this task.
 
-## My main hobby project is a mobile application "Upoluj Promke", which is used by over 1500 people:
+## My main hobby project is a mobile application "Upoluj Promke", which is used by over 1700 people:
 With this app people can find out which grocery stores have the best deals!
 **Upoluj Promke is written in React Native with TypeScript, Redux Toolkit and RTK query. Backend is written in NodeJs.**.
 
