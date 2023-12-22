@@ -11,7 +11,8 @@ I was hired by Polish Tattoo Studio **Włoska Robota Tattoo** to create a mobile
 The app is written in React Native with TypeScript. Backend is written in NodeJs. It’s available in Play Store. 
 
 - Play Store - https://play.google.com/store/apps/details?id=com.bartoszdadok.wloskarobota
- 
+- Apple Store - https://apps.apple.com/pl/app/w%C5%82oska-robota/id6473792849?l=pl
+
 A tattoo studio wanted to sell gift certificates in the form of printed RFID cards instead of paper gift cards. In order to do this, they needed a mobile application to handle these vouchers. The application can add, subtract funds, and can also set the expiration date. They hired me to accomplish this task.
 
 ## My main hobby project is a mobile application "Upoluj Promke", which is used by over 1700 people:
@@ -21,7 +22,7 @@ With this app people can find out which grocery stores have the best deals!
 **Upoluj Promke App is available in the Apple and Play stores:**
 
 - Play Store -  https://play.google.com/store/apps/details?id=com.bartoszdadok.UpolujPromke
-- Apple Store - https://apps.apple.com/pl/app/upoluj-promke/id6466819758?l=pl"
+- Apple Store - https://apps.apple.com/pl/app/upoluj-promke/id6466819758?l=pl
 
 ## The next mobile app with all code on Github:
 That project is a mobile app called **Wannabe**, I have been creating it in order to help people prepare for their interviews and better understand programming languages. There are hundreds of sample interview questions with answers and detailed explanations of front-end technologies.
