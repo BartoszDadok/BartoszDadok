@@ -83,6 +83,7 @@ That project is a mobile app called **Wannabe**, I have been creating it in orde
  - Competent in German
  
 ## Other Projects:
+- Repository React Blog- https://github.com/BartoszDadok/react-blog
 - Repository Trail Landing Page- https://github.com/BartoszDadok/TrailLandingPageFrontend.git
 - Repository Trail Dashboard- https://github.com/BartoszDadok/TrailDashboardFrontend.git
 - Repository Trail Backend- https://github.com/BartoszDadok/TrailBackend.git
