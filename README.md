@@ -6,7 +6,6 @@ I am proficient in JavaScript, TypeScript, React, React Native, and Next.js. I h
 
 I am also deeply interested in marketing, the business side of product development, and UI. 
 
-
 ## Wananbe app
 That project is a mobile app called **Wannabe**, I have been creating it in order to help people prepare for their interviews and better understand programming languages. There are hundreds of sample interview questions with answers and detailed explanations of front-end technologies.
 
@@ -26,9 +25,9 @@ That project is a mobile app called **Wannabe**, I have been creating it in orde
 
 ### Programming technologies:
 - Frontend:
-  - JavaScript, TypeScript
-  - React
   - React Native
+  - React
+  - JavaScript, TypeScript
   - Testing (JEST + React Testing Library)
   - GraphQL, Redux, Redux Toolkit
   - HTML
@@ -44,22 +43,14 @@ That project is a mobile app called **Wannabe**, I have been creating it in orde
   - Stripe
  
  ### Marketing:
-  - User Interface
   - Google Analytics
   - SEO
-  - Facebook Ads
-  - Google Ads
 
  ### Website Optimization:
   - Chrome DevTools
   - webpagetest.org
   - Google PageSpeed Test
 
- ### Video & Graphics:
- - Adobe After Effects
- - Adobe Premiere Pro
- - Adobe Photoshop
- - Adobe Illustrator
  
 ### Languages:
  - Proficient in English
