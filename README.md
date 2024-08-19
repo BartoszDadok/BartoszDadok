@@ -6,16 +6,8 @@ I am proficient in JavaScript, TypeScript, React, React Native, and Next.js. I h
 
 I am also deeply interested in marketing, the business side of product development, and UI. 
 
-## Commercial project. A mobile app Włoska Robota.
-I was hired by Polish Tattoo Studio **Włoska Robota Tattoo** to create a mobile app **Włoska Robota**. The app uses NFC technology to scan gift cards.
-The app is written in React Native with TypeScript. Backend is written in NodeJs. It’s available in Play Store. 
 
-- Play Store - https://play.google.com/store/apps/details?id=com.bartoszdadok.wloskarobota
-- Apple Store - https://apps.apple.com/pl/app/w%C5%82oska-robota/id6473792849?l=pl
-
-A tattoo studio wanted to sell gift certificates in the form of printed RFID cards instead of paper gift cards. In order to do this, they needed a mobile application to handle these vouchers. The application can add, subtract funds, and can also set the expiration date. They hired me to accomplish this task.
-
-## The next mobile app with all code on Github:
+## Wananbe app
 That project is a mobile app called **Wannabe**, I have been creating it in order to help people prepare for their interviews and better understand programming languages. There are hundreds of sample interview questions with answers and detailed explanations of front-end technologies.
 
 **Wannabe App is available in the Apple and Play stores:**
