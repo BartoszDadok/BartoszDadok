@@ -1,4 +1,5 @@
-![Mobile Apps & React Native](https://github.com/BartoszDadok/BartoszDadok/assets/101389945/36032e3e-dd35-4843-906e-30463d2d18e6)
+![Mobile Apps & React Native](https://raw.githubusercontent.com/BartoszDadok/BartoszDadok/main/githubHeader.jpg)
+
 
 # Bartosz Dadok
 I'm Bartosz. I enjoy learning programming languages and frameworks.
