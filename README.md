@@ -15,11 +15,8 @@ https://github.com/react-native-secure-sign/react-native-secure-sign
 ### Programming technologies:
   - React Native
   - Kotlin & Swift
-  - React.js
-  - Nest.js
-  - Node.js
-  - Express.js
-  - Postegres.js
+  - Typescript
+  - Javascript
 
 ## Contact:
 - Email - bartoszdadok@gmail.com
