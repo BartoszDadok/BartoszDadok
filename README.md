@@ -21,6 +21,7 @@ https://github.com/react-native-secure-sign/react-native-secure-sign
   - Express.js
   - Postegres.js
 
+## Contact:
 - Email - bartoszdadok@gmail.com
 - LinkedIn - [LinkedIn](https://www.linkedin.com/in/bartoszdadok/)
 
