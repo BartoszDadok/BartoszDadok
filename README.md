@@ -9,10 +9,7 @@ The librart written in Swift, Kotlin and Rust that provides a cross-platform API
 
 https://github.com/react-native-secure-sign/react-native-secure-sign
 
-
-## Skills and Experience:
-
-### Programming technologies:
+## Programming technologies:
   - React Native
   - Kotlin & Swift
   - Typescript
