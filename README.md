@@ -1,6 +1,3 @@
-![Mobile Apps & React Native](https://raw.githubusercontent.com/BartoszDadok/BartoszDadok/main/githubHeader.jpg)
-
-
 # Bartosz Dadok
 I'm Bartosz and offer 6+ years of commercial experience creating fast, customer-facing mobile applications for iOS and Android. 
 
