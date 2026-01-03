@@ -2,7 +2,7 @@
 
 I'm Bartosz, a Senior Mobile Engineer with 6+ years of experience building
 production-grade, customer-facing mobile applications for iOS and Android,
-including fintech and security-critical systems.
+including fintech and telecom systems.
 
 ## Author of the open-source library `react-native-secure-sign`
 
