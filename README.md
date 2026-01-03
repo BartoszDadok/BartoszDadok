@@ -1,10 +1,17 @@
 # Bartosz Dadok
-I'm Bartosz and offer 6+ years of commercial experience creating fast, customer-facing mobile applications for iOS and Android. 
+
+I'm Bartosz, a Senior Mobile Engineer with 6+ years of experience building
+production-grade, customer-facing mobile applications for iOS and Android,
+including fintech and security-critical systems.
 
 ## Author of the open-source library `react-native-secure-sign`
-The library written in Swift, Kotlin and Rust that provides a cross-platform API to generate and use non-exportable signing keys stored in Android Keystore(hardware-backed via TEE or StrongBox) and iOS Secure Enclave, with optional biometric authentication.
 
-https://github.com/react-native-secure-sign/react-native-secure-sign
+A production-ready React Native security library built with Swift, Kotlin and Rust,
+providing a cross-platform API for non-exportable signing keys backed by
+iOS Secure Enclave and Android Keystore (TEE / StrongBox), with optional
+biometric authentication.
+
+🔗 https://github.com/react-native-secure-sign/react-native-secure-sign
 
 ## Programming technologies:
   - React Native
